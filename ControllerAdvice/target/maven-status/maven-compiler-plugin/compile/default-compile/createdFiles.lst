@@ -1,0 +1,8 @@
+org\afernandez\example\controlleradvice\Main.class
+org\afernandez\example\controlleradvice\model\Item.class
+org\afernandez\example\controlleradvice\controller\ItemController.class
+org\afernandez\example\controlleradvice\exception\GlobalExceptionHandler.class
+org\afernandez\example\controlleradvice\services\ItemService.class
+org\afernandez\example\controlleradvice\exception\InvalidIdException.class
+org\afernandez\example\controlleradvice\exception\ResourceNotFoundException.class
+org\afernandez\example\controlleradvice\repository\ItemRepository.class
